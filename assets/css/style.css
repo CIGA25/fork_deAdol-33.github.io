@@ -252,7 +252,7 @@ body {
     display: inline-block;
     padding: 10px 20px;
     background: #007bff;
-    background-color: #28a745;
+    background-color: #2d2d2d;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -260,7 +260,7 @@ body {
 
 .btn:hover {
     background: #0056b3;
-    background-color: #218838;
+    background-color: #4b4b4b;
   }
 
 .footer {
